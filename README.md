@@ -4,6 +4,8 @@ HavenStay is a static luxury hospitality website prototype for a fictional hotel
 
 ## Preview
 
+**Live deployment:** [havenstay-frontend.vercel.app](https://havenstay-frontend.vercel.app/havenstay_luxury_hotel_prototype/code.html)
+
 Open the main prototype page:
 
 - [HavenStay luxury hotel prototype](havenstay_luxury_hotel_prototype/code.html)
